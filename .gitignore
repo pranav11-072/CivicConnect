@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+uploads/*
+!uploads/.gitkeep
+backend/models/*.json
+backend/models/*.joblib
+__pycache__/
+*.py[cod]
+.DS_Store
